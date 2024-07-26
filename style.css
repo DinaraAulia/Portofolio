@@ -1,12 +1,30 @@
+* {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  color: #ffffff;
+}
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-color: #351d49;
 }
-
+.display-4 {
+  color: rgb(219, 209, 209);
+}
+.lead {
+  color: rgb(219, 209, 209);
+}
+#about {
+  background-color: #210b36;
+}
 #projects {
-  background-color: #e2edff;
+  background-color: #351d49;
+}
+.card-text {
+  color: black;
 }
 
+#contact {
+  background-color: #210b36;
+}
 section {
   padding-top: 3rem;
 }
